@@ -5,7 +5,7 @@ This is a Python project that generates and solves mazes. It uses recursive back
 The maze can be solved using three algorithms
 1-Breadth First Search
 2-Depth first Search
-3-A algorithm
+3-A Search algorithm
 
 you can visualize how the algorithm is working in real time too.
 
