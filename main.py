@@ -546,7 +546,7 @@ while running:
     window.blit(text, (width*tile_size + 50, 50))
 
     # Draw menu options
-    options = ['Restart', 'Randomize', 'Breadth First Search', 'BFS in Real Time', 'Depth First Search', 'DFS in Real Time', 'A Algorithm', 'A Algorithm in Real Time']
+    options = ['Restart', 'Randomize', 'Breadth First Search', 'BFS in Real Time', 'Depth First Search', 'DFS in Real Time', 'A Search Algorithm', 'A Search Algorithm in Real Time']
     for i, option in enumerate(options):
         text = font.render(option, True, white)
         window.blit(text, (width*tile_size + 50, 100 + i*50))
