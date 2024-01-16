@@ -2,12 +2,13 @@
 
 ## Description
 This is a Python project that generates and solves mazes. It uses recursive backtrack algorithm to create a maze. 
-The maze can be solved using three algorithms
-1-Breadth First Search
-2-Depth first Search
-3-A Search algorithm
+The maze can be solved using three algorithms:
 
-you can visualize how the algorithm is working in real time too.
+- Breadth First Search
+- Depth first Search
+- A Search algorithm
+
+You can visualize how the algorithm is working in real time too.
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/Danieldotcomcoder/MazeSolver.git`
